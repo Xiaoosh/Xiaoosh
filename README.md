@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Xiaoosh
+- 👀 I’m interested in java c python
+- 🌱 I’m currently learning computer science
